@@ -12,6 +12,9 @@ public class ExampleComarable {
 		list.add(new Student(2, "Ravi bhushan", LocalDateTime.now(), 19923));
 		list.add(new Student(3, "Sunny bhushan", LocalDateTime.now(), 19390));
 		list.add(new Student(4, "Deep bhushan", LocalDateTime.now(), 23990));
+		
+		System.out.println("tresting");
+		
 
 		System.out.println(list);
 		System.out.println();
